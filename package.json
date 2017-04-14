@@ -2,7 +2,7 @@
     "name": "vscode-oldhope-italics",
     "displayName": "An old Hope with italics",
     "description": "An old Hope theme, dark, with italics",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "codepunkt",
     "engines": {
         "vscode": "^1.11.0"
